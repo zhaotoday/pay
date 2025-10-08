@@ -7,3 +7,4 @@
 
 #### 开源
 - [pay](https://github.com/alex3236/pay)
+- [PayQrcode](https://github.com/uxiaohan/PayQrcode)
