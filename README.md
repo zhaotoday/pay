@@ -1,5 +1,7 @@
 #### 平台
 - [狸猫出海](https://www.limaopay.com/indexCN.html)
+- [蓝兔支付](https://www.ltzf.cn/)
+- [虎皮椒](https://www.xunhupay.com/)
 
 #### 文章
 - [AI一人公司？先搞定聚合支付！一天搞定全能的聚合支付系统](https://juejin.cn/post/7523984919083057202)
