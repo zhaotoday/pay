@@ -10,6 +10,7 @@
 - [境外收付工具lemonsqueezy使用指南](https://juejin.cn/post/7218916901593415736)
 
 #### 开源
+- [PingPlusPlus](https://github.com/PingPlusPlus)
 - [stripe-node](https://github.com/stripe/stripe-node)
 - [pay](https://github.com/alex3236/pay)
 - [PayQrcode](https://github.com/uxiaohan/PayQrcode)
